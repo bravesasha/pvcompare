@@ -320,7 +320,7 @@ taken into account.
 5. In order to get the module output the cell outputs are added up.
 
 
-3. Normalization
+4. Normalization
 ----------------
 
 For the energy system optimization normalized time series are needed, which can
